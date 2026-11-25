@@ -1,0 +1,6 @@
+{
+  "name": "Iḥyā’ul ‘Arabiyyah",
+  "description": "Platform pembelajaran bahasa Arab komprehensif dengan 9 modul interaktif, ujian bersertifikat, upload video lokal maupun tautan, dan komunikasi langsung pelajar-perancang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
